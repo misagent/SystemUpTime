@@ -545,6 +545,7 @@ aside a.button {
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
 }
 
+
 code, pre {
   margin-bottom: 30px;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -859,7 +860,7 @@ footer a:hover {
     border-top: solid 1px #ddd;
   }
   aside#sidebar a.button {
-    display: none;
+    /*display: none;*/
   }
   #main-content h1:before,
   #main-content h2:before,
